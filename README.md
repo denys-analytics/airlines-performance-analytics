@@ -17,7 +17,8 @@ All dashboards are accessible via public links.
 ## 📊 Dashboards
 
 ### 1️⃣ Airlines & Airports Performance  
-**Tableau Public:** [ADD_LINK_1]
+**Tableau Public:** 
+https://public.tableau.com/views/AirlinesPerformanceAnalytics/AirlinesAirports?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 This dashboard provides a high-level overview of flight activity and performance:
 
