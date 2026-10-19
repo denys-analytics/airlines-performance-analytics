@@ -1,5 +1,10 @@
 # ✈️ Airlines Performance Analytics (Tableau Project)
 
+<img width="1603" height="882" alt="Знімок екрана 2026-10-19 104813" src="https://github.com/user-attachments/assets/1d2b536e-8bdf-4010-ad49-310d23622b85" />
+
+<img width="1448" height="862" alt="image" src="https://github.com/user-attachments/assets/6a457790-b66d-4955-869a-e1ec1332496a" />
+
+
 ## 📌 Project Overview
 This repository contains a Tableau-based analytical project focused on airline and airport performance across the United States.  
 The dashboards explore delays, cancellations, seasonal patterns, operational efficiency, and the root causes of flight disruptions.
